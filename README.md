@@ -1,5 +1,6 @@
-# PLANEs
-Plexe Sumo simulation of platoon vehicles on ring road network framework.
+# This is the repository of PLANEs A simulation model of Vehicle Platoons
+Plexe Sumo simulation of platoon vehicles on ring road network framework. Plexe-Sumo is an extention of the Simulation of 
+Urban Mobility microscopic traffic simulator modified for the simulation of platoons.
 To run this simulation you will need to have SUMO 0.32 which can be obtained via Michele Segata's github repository. 
 The following link should take you straight to the repository.
 
@@ -23,4 +24,12 @@ How to run the simulation
 You can run the simulation by issuing the following command in terminal or command window from the home directory of planes:
 
 python planes.py -c freeway.sumo.cfg -g
+
+If you use PLANEs for your research please cite our work:
+Mahama, H., & Chen, Y. (2019, November). Lane Based Platoon Control of Homogeneous Platoons. In 2019 IEEE International Conference on Connected Vehicles and Expo (ICCVE) (pp. 1-9). IEEE.
+
+This work was made possible by the work of:
+Segata, M., Joerer, S., Bloessl, B., Sommer, C., Dressler, F., & Cigno, R. L. (2014, December). Plexe: A platooning extension for Veins. In 2014 IEEE Vehicular Networking Conference (VNC) (pp. 53-60). IEEE.
+
+Mena-Oreja, J., & Gozalvez, J. (2018, November). Permit-a SUMO simulator for platooning maneuvers in mixed traffic scenarios. In 2018 21st International Conference on Intelligent Transportation Systems (ITSC) (pp. 3445-3450). IEEE.
 
