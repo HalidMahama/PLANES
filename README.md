@@ -1,6 +1,6 @@
 # PLANEs
-Plexe Sumo simulation of platoon vehicles with platoon member transfer capabilities on ring road network framework
-To run this simulation you will need to have SUMO 0.32 which can be obtained via Micheal Segata's github repository. 
+Plexe Sumo simulation of platoon vehicles on ring road network framework.
+To run this simulation you will need to have SUMO 0.32 which can be obtained via Michele Segata's github repository. 
 The following link should take you straight to the repository.
 
 https://github.com/michele-segata/plexe-sumo
