@@ -20,7 +20,7 @@ Lane changes are only allowed at Lane change Stations (LCSs) where platoons shif
 continue towrads a destination off-ramp.
 
 How to run the simulation
-You can run the simulation by issuing the following command in terminal or command window:
+You can run the simulation by issuing the following command in terminal or command window from the home directory of planes:
 
-python randrouplat.py -c freeway.sumo.cfg -g
+python planes.py -c freeway.sumo.cfg -g
 
